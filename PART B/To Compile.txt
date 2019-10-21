@@ -1,0 +1,5 @@
+To Compile Server: gcc -pthread server-nonblocking.c
+To Run Server: ./a.out
+
+To Compile Client: gcc -pthread -o client client.c
+To Run Client: ./client
